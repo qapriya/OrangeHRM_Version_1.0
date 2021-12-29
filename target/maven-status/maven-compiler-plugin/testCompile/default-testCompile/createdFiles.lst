@@ -1,0 +1,8 @@
+com\HRM\testCases\TC_002_AddNewEmployeeAndVerifyLoginCredentials.class
+com\HRM\utilities\ReadConfigFile.class
+com\HRM\utilities\BaseClass.class
+com\HRM\testCases\TC_001_LoginTestCase.class
+com\HRM\pages\HRM_PIM.class
+com\HRM\pages\HRM_HomePage.class
+com\HRM\pages\HRM_LoginPage.class
+com\HRM\utilities\Reports.class

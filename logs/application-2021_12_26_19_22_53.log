@@ -1,0 +1,5 @@
+[INFO ] 2021-12-26 19:23:03.157 [main] BaseClass - Browser launched successfully
+[INFO ] 2021-12-26 19:23:03.379 [main] BaseClass - UserName is set
+[INFO ] 2021-12-26 19:23:03.462 [main] BaseClass - passWord is set
+[INFO ] 2021-12-26 19:23:07.218 [main] BaseClass - Clicked on the login button
+[INFO ] 2021-12-26 19:23:08.362 [main] BaseClass - Browser closed successfully

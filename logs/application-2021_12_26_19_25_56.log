@@ -1,0 +1,8 @@
+[INFO ] 2021-12-26 19:26:05.245 [main] BaseClass - Browser launched successfully
+[INFO ] 2021-12-26 19:26:05.409 [main] BaseClass - UserName is set
+[INFO ] 2021-12-26 19:26:05.487 [main] BaseClass - passWord is set
+[INFO ] 2021-12-26 19:26:23.313 [main] BaseClass - Clicked on the login button
+[INFO ] 2021-12-26 19:26:25.757 [main] BaseClass - Click on PIM
+[INFO ] 2021-12-26 19:26:26.582 [main] BaseClass - Click on AddEmployee
+[INFO ] 2021-12-26 19:26:26.686 [main] BaseClass - FirstName is set
+[INFO ] 2021-12-26 19:26:27.936 [main] BaseClass - Browser closed successfully

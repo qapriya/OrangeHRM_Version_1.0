@@ -1,0 +1,6 @@
+[INFO ] 2021-12-26 18:39:20.102 [main] BaseClass - Browser launched successfully
+[INFO ] 2021-12-26 18:39:20.242 [main] BaseClass - UserName is set
+[INFO ] 2021-12-26 18:39:20.320 [main] BaseClass - passWord is set
+[INFO ] 2021-12-26 18:39:38.374 [main] BaseClass - Clicked on the login button
+[INFO ] 2021-12-26 18:39:38.391 [main] BaseClass - Actual Title: OrangeHRM  Matched with Expected Title: OrangeHRM
+[INFO ] 2021-12-26 18:39:39.504 [main] BaseClass - Browser closed successfully

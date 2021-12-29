@@ -1,0 +1,16 @@
+[INFO ] 2021-12-26 20:42:21.957 [main] BaseClass - Browser launched successfully
+[INFO ] 2021-12-26 20:42:22.120 [main] BaseClass - UserName is set
+[INFO ] 2021-12-26 20:42:22.201 [main] BaseClass - passWord is set
+[INFO ] 2021-12-26 20:42:40.319 [main] BaseClass - Clicked on the login button
+[INFO ] 2021-12-26 20:42:42.840 [main] BaseClass - Click on PIM
+[INFO ] 2021-12-26 20:42:43.774 [main] BaseClass - Click on AddEmployee
+[INFO ] 2021-12-26 20:42:43.853 [main] BaseClass - FirstName is set
+[INFO ] 2021-12-26 20:42:43.958 [main] BaseClass - MiddleName is set
+[INFO ] 2021-12-26 20:42:44.029 [main] BaseClass - LastName is set
+[INFO ] 2021-12-26 20:42:44.119 [main] BaseClass - EmployeeID is set
+[INFO ] 2021-12-26 20:42:44.232 [main] BaseClass - Click on LoginDetails
+[INFO ] 2021-12-26 20:42:44.341 [main] BaseClass - UserName is set
+[INFO ] 2021-12-26 20:42:44.460 [main] BaseClass - Password is set
+[INFO ] 2021-12-26 20:42:44.578 [main] BaseClass - ConfirmPassword is set
+[INFO ] 2021-12-26 20:42:44.654 [main] BaseClass - Click on SaveButton
+[INFO ] 2021-12-26 20:42:45.935 [main] BaseClass - Browser closed successfully
